@@ -4,7 +4,7 @@ My name is Lawson! 😁
 
 In March of 2020, I started studying programming in Harvard's CS50 course and felt in love with coding 🌟
 
-My focus is to be a mobile developer. You can see in my repositories that I've made some mobile apps using React Native :stuck_out_tongue_winking_eye:
+My focus is to be a mobile developer :grin: You can see in my repositories that I've made some mobile apps using React Native :stuck_out_tongue_winking_eye:
 
 I have a degree in Civil Engineering and had been working with product design and CNC machines :blush:
 
