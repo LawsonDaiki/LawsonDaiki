@@ -10,14 +10,15 @@ I have a degree in Civil Engineering and had been working with product design an
 
 I was born and raised in São Paulo(Brazil). My family is originally from Japan :yum:
 
-Here are some ideas to get you started:
+----
 
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Mobile Development
 - 💬 Ask me about HTML, CSS, Javascript, Python, Django
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lawson-daiki-4755441a6/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love meditation and Yoga
+
+----
 
 ![Lawson's github stats](https://github-readme-stats.vercel.app/api?username=LawsonDaiki&show_icons=true&theme=default)
  
