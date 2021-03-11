@@ -15,7 +15,7 @@ I was born and raised in São Paulo(Brazil). My family is originally from Japan 
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Mobile Development
 - 💬 Ask me about HTML, CSS, Javascript, Python, Django
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lawson-daiki-4755441a6/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lawsondaiki/)
 - ⚡ Fun fact: I love meditation and Yoga
 
 ----
