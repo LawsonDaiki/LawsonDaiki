@@ -4,7 +4,7 @@ My name is Lawson! 😁
 
 In August of 2020, I concluded the Harvard's CS50 course and felt in love with coding 🌟
 
-My focus is to be a excellent software enginner :grin: I work at Aion Solution as a Django/Python developer, building new features, making integrations with ERPs, modeling and consuming REST APIs and writing tests with Pytest :stuck_out_tongue_winking_eye:
+My focus is to be a excellent software enginner :grin: I work at Aion Solution as a Django/Python developer, building new features, making integrations with ERPs, developing and consuming REST APIs and writing tests with Pytest :stuck_out_tongue_winking_eye:
 
 I have a degree in Civil Engineering at the Universidade de São Paulo. Currently working as a software engineer :blush:
 
